@@ -16,7 +16,7 @@ experience: true
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I'm currently a master student at [Zhejiang University](http://www.zju.edu.cn/english/), advised by Prof. [Xiaowei Zhou](http://xzhou.me). Before that, I received my Bachelor degree in the CS Department, [Zhejiang University](http://www.zju.edu.cn/english/) in July 2020.
+Hi! I'm currently a master student at [Zhejiang University](http://www.zju.edu.cn/english/), advised by Prof. [Xiaowei Zhou](http://xzhou.me). Before that, I received my bachelor's degree in the CS Department, [Zhejiang University](http://www.zju.edu.cn/english/) in July 2020.
 
 My research interest lies at the intersection of computer vision and computer graphics. I am particularly excited about neural rendering, 3D reconstruction, novel view synthesis, and differentiable rendering problems.
 
