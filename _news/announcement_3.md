@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+from: 06/2022
+to: 09/2022
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Research Intern, [Mihoyo](https://www.mihoyo.com/en/)
